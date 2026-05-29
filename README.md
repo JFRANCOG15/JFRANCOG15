@@ -45,6 +45,12 @@ Aplicacion web creada con scripts de google y google sheets, para el control de 
 - Características clave: gestion de ingresos y egresos, lógica de negocio y persistencia de datos.
 - Enlace: https://script.google.com/macros/s/AKfycbwCCheO0Aygxlkb4tDFISec2NbiXym0Owcd-Nc0PzLUTFCt9PSlyeOHTalE07SxAFeBQA/exec
 
+### 🛠️ SISTEMA FACTURACION
+Sistema de facturacion creado en java, para el registro y control de productos por inventario y generacion de factura.
+- Stack: java.
+- Características clave: gestion de inventario, facturacion y ventas.
+- Enlace: https://github.com/JFRANCOG15/SISTEMA_FACTURACION.git
+
 ## 📫 Conectemos
 
 Estoy abierto a oportunidades laborales, proyectos colaborativos o simplemente a charlar sobre tecnología.
