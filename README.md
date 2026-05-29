@@ -1,4 +1,4 @@
-# ¡Hola! Soy un apasionado del desarrollo de software 👋
+# ¡Hola! Soy un apasionado del desarrollo de software 
 
 Soy un Desarrollador Junior Full Stack en constante formación. Mi objetivo actual es integrarme a un equipo de trabajo donde pueda aportar mis conocimientos, enfrentar nuevos retos técnicos y seguir creciendo profesionalmente en el sector tecnológico.
 
@@ -6,7 +6,7 @@ Me destaco por tener bases sólidas tanto en el diseño y lógica de la interfaz
 
 ---
 
-## 🚀 Tecnologías y Herramientas
+## Tecnologías y Herramientas
 
 ### **Frontend**
 Componentes visuales, estilos y maquetación web responsiva:
@@ -25,13 +25,13 @@ Modelado y persistencia de información, además de control de versiones:
 - MySQL / SQL (Bases de datos relacionales)
 - Git & GitHub
 
-### **🌱 Actualmente Aprendiendo**
+### **Actualmente Aprendiendo**
 Para expandir mi stack y especializarme en arquitecturas modernas, estoy profundizando en:
 - Node.js (Entorno de ejecución para JavaScript en el backend)
 
 ---
 
-## 💻 Proyectos Destacados
+##  Proyectos Destacados
 
 ### 🛠️ HOTEL JS
 Aplicacion web con sistema CRUD para la administracion de multiples sucursales de hoteles en diferentes puntos, gestion de usuarios, gestion de reservas, visualizacion de servicios disponibles.
