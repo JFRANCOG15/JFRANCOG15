@@ -38,6 +38,7 @@ Aplicacion web con sistema CRUD para la administracion de multiples sucursales d
 - Stack: Python, SQL, html, css.
 - Características clave: Autenticación de usuarios, lógica de negocio y persistencia de datos.
 - Enlaces: https://github.com/JFRANCOG15/APP-WEB-HOTEL.git
+![FRONTEND](image.png)
 
 ### 🛠️ GESTION FINANCIERA
 Aplicacion web creada con scripts de google y google sheets, para el control de ingresos y egresos dentro de un local comercial.
