@@ -39,6 +39,12 @@ Aplicacion web con sistema CRUD para la administracion de multiples sucursales d
 - Características clave: Autenticación de usuarios, lógica de negocio y persistencia de datos.
 - Enlaces: https://github.com/JFRANCOG15/APP-WEB-HOTEL.git
 
+### 🛠️ GESTION FINANCIERA
+Aplicacion web creada con scripts de google y google sheets, para el control de ingresos y egresos dentro de un local comercial.
+- Stack: javaScript, google sheet, html.
+- Características clave: gestion de ingresos y egresos, lógica de negocio y persistencia de datos.
+- Enlace: https://script.google.com/macros/s/AKfycbwCCheO0Aygxlkb4tDFISec2NbiXym0Owcd-Nc0PzLUTFCt9PSlyeOHTalE07SxAFeBQA/exec
+
 ## 📫 Conectemos
 
 Estoy abierto a oportunidades laborales, proyectos colaborativos o simplemente a charlar sobre tecnología.
