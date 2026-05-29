@@ -1,16 +1,48 @@
-## Hi there 👋
+# ¡Hola! Soy un apasionado del desarrollo de software 👋
 
-<!--
-**JFRANCOG15/JFRANCOG15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un Desarrollador Junior Full Stack en constante formación. Mi objetivo actual es integrarme a un equipo de trabajo donde pueda aportar mis conocimientos, enfrentar nuevos retos técnicos y seguir creciendo profesionalmente en el sector tecnológico.
 
-Here are some ideas to get you started:
+Me destaco por tener bases sólidas tanto en el diseño y lógica de la interfaz (Frontend) como en la arquitectura de servidores y gestión de datos (Backend).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologías y Herramientas
+
+### **Frontend**
+Componentes visuales, estilos y maquetación web responsiva:
+- HTML5 / CSS3
+- JavaScript (ES6+)
+- Bootstrap 
+
+### **Backend**
+Lógica de negocio, APIs y arquitecturas robustas:
+- Java
+- Python
+- PHP (Conocimientos básicos)
+
+### **Bases de Datos & Herramientas**
+Modelado y persistencia de información, además de control de versiones:
+- MySQL / SQL (Bases de datos relacionales)
+- Git & GitHub
+
+### **🌱 Actualmente Aprendiendo**
+Para expandir mi stack y especializarme en arquitecturas modernas, estoy profundizando en:
+- Node.js (Entorno de ejecución para JavaScript en el backend)
+
+---
+
+## 💻 Proyectos Destacados
+
+### 🛠️ HOTEL JS
+Aplicacion web con sistema CRUD para la administracion de multiples sucursales de hoteles en diferentes puntos, gestion de usuarios, gestion de reservas, visualizacion de servicios disponibles.
+- Stack: Python, SQL, html, css.
+- Características clave: Autenticación de usuarios, lógica de negocio y persistencia de datos.
+- Enlaces: https://github.com/JFRANCOG15/APP-WEB-HOTEL.git
+
+## 📫 Conectemos
+
+Estoy abierto a oportunidades laborales, proyectos colaborativos o simplemente a charlar sobre tecnología.
+
+- **Correo:** sebastianfrancogarces1322@gmail.com
+
+---
